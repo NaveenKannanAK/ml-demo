@@ -1,6 +1,6 @@
 # Python functions
 
-**Tools use:**
--> Python Jupyter notebook
--> Numpy
+**Tools use:**  
+-> Python Jupyter notebook  
+-> Numpy  
 
